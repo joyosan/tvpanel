@@ -4,85 +4,91 @@
                 "judul": "iNewsTV",
                 "info": "Streaming Berita Live",
                 "link_tv": "http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com",
-                "image_url": "*isi dengan link gambar logo tv(hapus tanda bintang nya)*"
+                "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/inews.jpg"
               },
               {
                 "judul": "NET",
                 "info": "Siaran TV Masakini",
                 "link_tv": "http://202.80.222.171:80/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com",
-                "image_url": "*isi dengan link gambar logo tv(hapus tanda bintang nya)*"
+                "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/net.jpg"
               },
               {
                 "judul": "RTV",
                 "info": "Rajawali Televisi Indonesia",
                "link_tv": "http://202.80.222.171:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com",
-                "image_url": "*isi dengan link gambar logo tv(hapus tanda bintang nya)*"
+                "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/rtv.jpg"
               },
               {
                 "judul": "TVRI",
                 "info": "Berita Nasional Indonesia Raya",
                 "link_tv": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8",
-                "image_url": "*isi dengan link gambar logo tv(hapus tanda bintang nya)*"
+                "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/tvri.jpg"
               },
               {
                 "judul": "TRANSTV",
                 "info": "TransTV",
                "link_tv": "http://202.80.222.171:80/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com",
-                "image_url": "*isi dengan link gambar logo tv(hapus tanda bintang nya)*"
+                "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/trans.jpg"
               },
               {
                 "judul": "TRANS7",
                 "info": "TV Rekreasi dan Inovatif",
               "link_tv": "http://202.80.222.171:80/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com",
-                "image_url": "*isi dengan link gambar logo tv(hapus tanda bintang nya)*"
+                "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/trans7.jpg"
               },
               {
                 "judul": "GTV",
                 "info": "Nonton Film Oke di GTV",
                "link_tv": "http://202.80.222.171:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com",
-                "image_url": "*isi dengan link gambar logo tv(hapus tanda bintang nya)*"
+                "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/gtv.jpg"
               },
               {
                 "judul": "TVOne",
                 "info": "Nonton Berita Live Streaming",
                  "link_tv": "http://202.80.222.182/000001/2/ch14061215030555428637/1003.m3u8?IASHttpSessionId=OTT9469201908080351251223385&ztecid=ch14061215030555428637&bandwidth=1239209&ispcode=1&timeformat=local&channel=ch14061215030555428637&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwMTgvMTAyNC5tM3U4&zte_bandwidth=1003&m3u8_level=2&virtualDomain=000001.live_hls.zte.com&virtualDomain=000001.live_hls.zte.com",
-                "image_url": "*isi dengan link gambar logo tv(hapus tanda bintang nya)*"
+                "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/tvone.jpg"
               },
               {
                 "judul": "RCTI",
                 "info": "Sinetron Terbaik dan Berita",
                  "link_tv": "http://202.80.222.171:80/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com",
-                "image_url": "*isi dengan link gambar logo tv(hapus tanda bintang nya)*"
+                "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/rcti.jpg"
               },
               {
                 "judul": "SCTV",
                 "info": "Nonton FTV dan Sinetron",
                 "link_tv": "http://202.80.222.171:80/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com",
-                "image_url": "*isi dengan link gambar logo tv(hapus tanda bintang nya)*"
+                "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/sctv.jpg"
               },
               {
                 "judul": "Indosiar",
                 "info": "Nonton Film dan Lainnya",
                 "link_tv": "http://202.80.222.171/000001/2/ch15051810235326945512/1002.m3u8?IASHttpSessionId=OTT219892019080803214217420595&ztecid=ch15051810235326945512&bandwidth=695657&ispcode=1&timeformat=local&channel=ch15051810235326945512&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjIvNTEyLm0zdTg%3D&zte_bandwidth=1002&m3u8_level=2&virtualDomain=000001.live_hls.zte.com&virtualDomain=000001.live_hls.zte.com",
-                "image_url": "*isi dengan link gambar logo tv(hapus tanda bintang nya)*"
+                "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/Indosiar.jpg"
               },
               {
                 "judul": "METROTV",
                 "info": "Berita 24 Jam Metro",
                 "link_tv": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8",
-                "image_url": "*isi dengan link gambar logo tv(hapus tanda bintang nya)*"
+                "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/metro.jpg"
               },
               {
                 "judul": "ANTV",
                 "info": "Nonton Film India",
                 "link_tv": "http://202.80.222.171:80/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com",
-                "image_url": "*isi dengan link gambar logo tv(hapus tanda bintang nya)*"
+                "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/antv.jpg"
+              },
+              {
+                "judul": "KOMPAS TV",
+                "info": "Siaran TV Masakini",
+                "link_tv": "http://202.80.222.171:80/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com",
+                "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/Kompas.jpg"
               },
               {
                 "judul": "MNCTV",
                 "info": "Nonton Film",
                "link_tv": "http://202.80.222.171:80/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com",
-                "image_url": "*isi dengan link gambar logo tv(hapus tanda bintang nya)*"
+                "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/mnc.jpg"
               }         
             ]
 }
