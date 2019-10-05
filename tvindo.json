@@ -33,7 +33,7 @@
               {
                 "judul": "TRANS7",
                 "info": "TV Rekreasi dan Inovatif",
-              "link_tv": "http://202.80.222.171:80/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com",
+              "link_tv": "http://210.210.155.35/qwr9ew/s/s101/01.m3u8",
                 "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/trans7.jpg"
               },
               {
@@ -51,13 +51,15 @@
               {
                 "judul": "RCTI",
                 "info": "Sinetron Terbaik dan Berita",
-                 "link_tv": "http://202.80.222.171:80/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com",
+                 "link_tv": "https://edge.okezone.com/live/rctioke.m3u8
+",
                 "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/rcti.jpg"
               },
               {
                 "judul": "SCTV",
                 "info": "Nonton FTV dan Sinetron",
-                "link_tv": "http://202.80.222.171:80/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com",
+                "link_tv": "http://210.210.155.35/qwr9ew/s/s103/01.m3u8
+",
                 "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/sctv.jpg"
               },
               {
@@ -81,13 +83,13 @@
               {
                 "judul": "KOMPAS TV",
                 "info": "Siaran TV Masakini",
-                "link_tv": "http://202.80.222.171:80/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com",
+                "link_tv": "http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com",
                 "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/Kompas.jpg"
               },
               {
-                "judul": "MNCTV",
-                "info": "Nonton Film",
-               "link_tv": "http://202.80.222.171:80/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com",
+                "judul": "MNC News",
+                "info": "Berita",
+               "link_tv": "http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com",
                 "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/mnc.jpg"
               }         
             ]
