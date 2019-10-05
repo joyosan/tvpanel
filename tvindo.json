@@ -51,15 +51,13 @@
               {
                 "judul": "RCTI",
                 "info": "Sinetron Terbaik dan Berita",
-                 "link_tv": "https://edge.okezone.com/live/rctioke.m3u8
-",
+                 "link_tv": "https://edge.okezone.com/live/rctioke.m3u8",
                 "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/rcti.jpg"
               },
               {
                 "judul": "SCTV",
                 "info": "Nonton FTV dan Sinetron",
-                "link_tv": "http://210.210.155.35/qwr9ew/s/s103/01.m3u8
-",
+                "link_tv": "http://210.210.155.35/qwr9ew/s/s103/01.m3u8",
                 "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/sctv.jpg"
               },
               {
