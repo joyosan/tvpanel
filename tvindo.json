@@ -61,12 +61,6 @@
                 "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/sctv.jpg"
               },
               {
-                "judul": "Indosiar",
-                "info": "Nonton Film dan Lainnya",
-                "link_tv": "http://202.80.222.171/000001/2/ch15051810235326945512/1002.m3u8?IASHttpSessionId=OTT219892019080803214217420595&ztecid=ch15051810235326945512&bandwidth=695657&ispcode=1&timeformat=local&channel=ch15051810235326945512&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjIvNTEyLm0zdTg%3D&zte_bandwidth=1002&m3u8_level=2&virtualDomain=000001.live_hls.zte.com&virtualDomain=000001.live_hls.zte.com",
-                "image_url": "https://raw.githubusercontent.com/joyosan/tvpanel/master/Logo/Indosiar.jpg"
-              },
-              {
                 "judul": "METROTV",
                 "info": "Berita 24 Jam Metro",
                 "link_tv": "http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8",
